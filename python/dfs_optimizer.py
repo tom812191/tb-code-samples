@@ -21,6 +21,25 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 
+
+Sample Output:
+
+Optimal Lineup:
+                     Name Position  Projection  Salary
+27           Tyrod Taylor       QB       17.27  5000.0
+39          Melvin Gordon       RB       19.11  6000.0
+79         Javorius Allen       RB       15.94  4500.0
+101          LeSean McCoy       RB       23.61  7800.0
+139           Marqise Lee       WR       14.11  4400.0
+189         Antonio Brown       WR       22.29  8400.0
+247       DeAndre Hopkins       WR       19.16  6400.0
+313        Delanie Walker       TE       14.72  4700.0
+344  Jacksonville Jaguars      DST       11.86  2800.0
+
+Totals:
+Projection      158.07
+Salary        50000.00
+
 """
 
 import os
